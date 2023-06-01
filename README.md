@@ -35,3 +35,5 @@ In a separate terminal execute:
 In a separate terminal execute:
 `$ npm run start`
 In the src older,there is configFile,makee sure that address is same as the address where contract is deployed by hardhat
+
+If you havent connected Metamask wallet with hardhat network,then manually add,use the chainId from config file and rpc url u will get when you deploy ur contract 
