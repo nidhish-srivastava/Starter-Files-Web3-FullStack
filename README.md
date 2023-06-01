@@ -1,4 +1,4 @@
-# Dappcord
+# Your_Application_Name
 
 ## Technology Stack & Tools
 
