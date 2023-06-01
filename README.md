@@ -17,6 +17,9 @@
 ### 2. Install Dependencies:
 `$ npm install`
 
+### 2. Compile your SmartContract:
+`$ npx hardhat compile`
+
 ### 3. Run tests
 `$ npx hardhat test`
 
