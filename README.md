@@ -34,3 +34,4 @@ In a separate terminal execute:
 ### 6. Start frontend
 In a separate terminal execute:
 `$ npm run start`
+In the src older,there is configFile,makee sure that address is same as the address where contract is deployed by hardhat
